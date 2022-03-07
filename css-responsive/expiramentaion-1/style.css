@@ -14,3 +14,8 @@
     background-color: palevioletred;
   }
   
+  @media screen and (max-width: 600px){
+      .boxes {
+          display: block;
+      }
+  }
