@@ -14,17 +14,17 @@
 </head>
 
 <body>
-<?php include("_header.php"); ?>
-<section class="hero is-info is-medium is-bold">
+    <?php include("_header.php"); ?>
+    <section class="hero is-info is-medium is-bold">
     <div class="hero-body header-image">
         <div class="container has-text-centered">
             <h1 class="title shadow">Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed eiusmod tempor
                 incididunt ut labore et dolore magna aliqua</h1>
         </div>
     </div>
-</section>
+    </section>
 
-<main class="container">
+    <main class="container">
     <div class="column is-8 is-offset-2">
         <div class="articles">
 
@@ -147,7 +147,7 @@
             </div>
         </section>
     </div>
-</main>
-<?php include("_footer.php"); ?>
+    </main>
+    <?php include("_footer.php"); ?>
 </body>
 </html>

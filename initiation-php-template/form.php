@@ -14,9 +14,9 @@
 </head>
 
 <body>
-<?php include("_header.php") ?>
+	<?php include("_header.php") ?>
 
-<div class="container">
+	<div class="container">
 	<div class="column is-12">
 		<section class="hero is-info is-bold is-small">
 			<div class="hero-body">
@@ -27,7 +27,7 @@
 			</div>
 		</section>
 	</div>
-</div>
+	</div>
 
 <?php include("_footer.php") ?>
 </body>
